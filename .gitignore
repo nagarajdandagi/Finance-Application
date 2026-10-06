@@ -1,0 +1,14 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+target/
+uploads/
+server/uploads/
+client/node_modules/
+server/node_modules/
+*.log
+.idea/
+.vscode/
